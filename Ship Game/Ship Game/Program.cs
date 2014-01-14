@@ -10,6 +10,9 @@ namespace Ship_Game
     {
         static void Main(string[] args)
         {
+            Map map = new Map();
+            map.Print();
+            Console.ReadKey();
         }
     }
 }

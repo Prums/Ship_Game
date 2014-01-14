@@ -8,5 +8,6 @@ namespace Ship_Game
 {
     class Ship
     {
+
     }
 }

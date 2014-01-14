@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Ship_Game
 {
-    class Cell
+    // Низший класс, реализующий представление единичной клетки на карте 
+    struct Cell
     {
         private int _x; // X координата 
         private int _y; // У координата
